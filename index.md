@@ -1,7 +1,8 @@
 ---
-layout: home
-title: Welcome to My Portfolio
+layout: default
+title: Ethan Juengerman
 ---
 
-# Welcome to My Portfolio
-This is the homepage of my portfolio site built with Jekyll.
+# Welcome to my portfolio
+
+This is where I showcase my work.
