@@ -25,7 +25,6 @@ jobs:
       - name: Install dependencies
         run: |
           gem install bundler
-          bundle init
           echo "gem 'github-pages', group: :jekyll_plugins" >> Gemfile
           echo "gem 'jekyll-remote-theme'" >> Gemfile
           bundle install
