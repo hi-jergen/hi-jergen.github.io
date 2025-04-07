@@ -22,13 +22,11 @@ jobs:
         with:
           ruby-version: '3.1'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           gem install bundler
-          echo "gem 'github-pages', group: :jekyll_plugins" >> Gemfile
-          echo "gem 'jekyll-remote-theme'" >> Gemfile
           bundle install
-
+    
       - name: Build site with Jekyll
         run: bundle exec jekyll build
 
