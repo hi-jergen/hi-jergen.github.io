@@ -6,7 +6,7 @@ title: Welcome to my portfolio!
 
 This site is under construction.
 
-📄 [View my resume](Ethan_Juengerman_Resume.pdf)
+[View my resume](Ethan_Juengerman_Resume.pdf)
 
 
 ---
