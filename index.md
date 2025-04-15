@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Ethan Juengerman
+title: Welcome to my portfolio!  
 ---
 
-Welcome to my portfolio!  
+
 This site is under construction.
 
 📄 [View my resume](Ethan_Juengerman_Resume.pdf)
