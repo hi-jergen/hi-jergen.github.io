@@ -5,7 +5,7 @@ description: >-
 baseurl: "" # keep this empty for user site
 url: "https://hi-jergen.github.io"
 
-theme: minimal
+theme: minima
 
 # Optional: show navigation links
 header_pages:
