@@ -1,4 +1,4 @@
-n---
+---
 layout: home
 title: Ethan Juengerman
 ---
