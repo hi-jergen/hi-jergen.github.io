@@ -1,0 +1,16 @@
+title: Ethan Juengerman
+email: ejuengerman@gmail.com
+description: >- 
+  Portfolio, automation projects, and fun with Python and all things DevOps.
+baseurl: "" # keep this empty for user site
+url: "https://hi-jergen.github.io"
+
+theme: minima
+
+# Optional: show navigation links
+header_pages:
+  - index.md
+  - forthebirds.md
+
+plugins:
+  - jekyll-feed
