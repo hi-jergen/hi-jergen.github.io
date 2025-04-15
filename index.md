@@ -1,4 +1,4 @@
----
+n---
 layout: home
 title: Ethan Juengerman
 ---
@@ -6,7 +6,7 @@ title: Ethan Juengerman
 Welcome to my portfolio!  
 This site is under construction.
 
-📄 [View my resume](ethan_juengerman_resume.pdf)
+📄 [View my resume](Ethan_Juengerman_Resume.pdf)
 
 ---
 
